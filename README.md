@@ -13,7 +13,6 @@ A basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 - CSS
 - JavaScript
 
-## 📷 Screenshot
-C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2025-06-05 123652.png
+## LIVE DEMO
+-live demo is available here http://127.0.0.1:5500/calc.html
 
-http://127.0.0.1:5500/calc.html

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <div class="box">
+            <div class="screen">
+                <input class="screen" type="text" id="display" disabled>
+            </div>
+            <div class="buttons">
+                <button onclick="buttonClick('7')">7</button>
+                <button onclick="buttonClick('8')">8</button>
+                <button onclick="buttonClick('9')">9</button>
+                <button onclick="buttonClick('/')">/</button>
+
+                <button onclick="buttonClick('4')">4</button>
+                <button onclick="buttonClick('5')">5</button>
+                <button onclick="buttonClick('6')">6</button>
+                <button onclick="buttonClick('*')">*</button>
+
+                <button onclick="buttonClick('3')">3</button>
+                <button onclick="buttonClick('2')">2</button>
+                <button onclick="buttonClick('1')">1</button>
+                <button onclick="buttonClick('-')">-</button>
+
+                <button onclick="buttonClick('0')">0</button>
+                <button onclick="buttonClick('.')">.</button>
+                <button onclick="buttonClick('=')">=</button>
+                <button onclick="buttonClick('+')">+</button>
+
+                <button onclick="clearDisplay()">CLEAR</button>
+
+
+
+            </div>
+        </div>
+    </main>
+    <script src="./script.js"></script>
+</body>
+</html>

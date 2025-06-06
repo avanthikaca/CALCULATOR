@@ -45,7 +45,7 @@ main {
   gap: 10px;
 }
 .clear-btn {
-  grid-column: span 4; /* Make clear button span all 4 columns */
+  grid-column: span 4; 
   background-color: #aaa3a3;
   color: white;
   font-weight: bold;

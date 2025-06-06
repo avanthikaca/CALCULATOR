@@ -16,4 +16,5 @@ A basic web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 ## LIVE DEMO
 -live demo is available here http://127.0.0.1:5500/calc.html
 
-![Screenshot 2025-06-05 123652](https://github.com/user-attachments/assets/3e38d900-4226-4df5-afc1-9a9449294fe4)
+
+![Screenshot 2025-06-06 220647](https://github.com/user-attachments/assets/7539ae9c-d486-4c8a-9181-8810b006846e)

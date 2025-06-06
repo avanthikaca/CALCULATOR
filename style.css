@@ -44,4 +44,21 @@ main {
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 }
+.clear-btn {
+  grid-column: span 4; /* Make clear button span all 4 columns */
+  background-color: #aaa3a3;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 15px 0;
+  transition: background-color 0.3s ease;
+}
+
+.clear-btn:hover {
+  background-color: #efe8e8;
+}
+
 
